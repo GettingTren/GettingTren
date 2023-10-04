@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GettingTren</h1>
-<h3 align="center">Also known as ilGroggo or simply groggo,</h3>
+<h3 align="center">Also known as ilGroggo or simply groggo, im a Jr Developer From Italy</h3>
 
 - 🔭 I’m currently working on **Minecraft Plugin Development**
 

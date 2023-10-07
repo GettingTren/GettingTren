@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Linux and Mysql**
 
-- 📫 How to reach me **https://discordapp.com/users/772162924377931797**
+- 📫 How to reach me **look at the links in my profile ;)**
 
 - ⚡ Fun fact **Im good at sports**
 

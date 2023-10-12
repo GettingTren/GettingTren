@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate with [CoralMC Network](https://www.coralmc.it/) 👑
 
-- 👨‍💻 All of my projects are available at [https://github.com/GettingTren](https://github.com/GettingTren) 
+- 👨‍💻 All of my projects are available at [https://github.com/GettingTren](https://github.com/GettingTren)
 
 - 💬 Ask me about **Python, Linux and Mysql** 🖥️
 

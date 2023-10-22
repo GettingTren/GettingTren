@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Linux and Mysql** 🖥️
 
-- 📫 How to reach me **look at the links in my profile ;)** 💬
+- 📫 Look at the links in my profile to **reach out to me ;)** 💬
 
 - ⚡ Fun fact **im natty (but not for long)**
 

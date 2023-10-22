@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Minecraft Plugin Development** 🔧
  
-- 🌱 I’m currently learning **Spigot API w/Java** ♨️ 
+- 🌱 I’m currently learning **Spigot API w/Java** ♨️
 
 - 👯 I’m looking to collaborate with [CoralMC Network](https://www.coralmc.it/) 👑
 

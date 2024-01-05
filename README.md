@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm GettingTren</h1>
 <h3 align="center">Also known as ilGroggo or simply groggo, im a Jr Developer From Italy</h3>
 
-- 🔭 I’m currently working on **Minecraft Plugin Development** 🔧
+- 🔭 I’m currently working on **C++, Game Development and Game Hacking** 🔧
 
-- 🌱 I’m currently learning **Spigot API w/Java** ♨️
-
-- 👯 I’m looking to collaborate with [CoralMC Network](https://www.coralmc.it/) 👑
+- 🌱 I’m currently learning **C++** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/GettingTren](https://github.com/GettingTren)
 
 - 💬 Ask me about **Python, Linux and Mysql** 🖥️
 
-- 📫 Look at the links in my profile to **reach out to me ;)** 💬
+- 📫 Look at the links in my profile to **Reach Out to me ;)** 💬
 
 - ⚡ Fun fact **im natty (but not for long)**
 
